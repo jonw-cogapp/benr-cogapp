@@ -60,13 +60,13 @@
           ],
           "otherContent": [
             {
-              "@id": "https://publicbin.cogapp.com/temp/unton_annotations3.json",
+              "@id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/unton_annotations3.json",
               "@type": "sc:AnnotationList"
             }
           ],
           "annotationList": {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://publicbin.cogapp.com/temp/unton_annotations1.json",
+            "@id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/unton_annotations1.json",
             "@type": "sc:AnnotationList",
             "resources": [
               {

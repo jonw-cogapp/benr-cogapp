@@ -36,12 +36,12 @@
 "otherContent":
 [
 {
-	"@id":"https://publicbin.cogapp.com/temp/woodlandannotations.json",
+	"@id":"https://benr-cogapp.github.io/benr-cogapp/tempiiies/woodlandannotations.json",
 	"@type":"sc:AnnotationList"
 	}
 	],"annotationList":
 {"@context":"http://iiif.io/api/presentation/2/context.json",
-"@id":"https://publicbin.cogapp.com/temp/woodlandannotations.json",
+"@id":"https://benr-cogapp.github.io/benr-cogapp/tempiiies/woodlandannotations.json",
 "@type":"sc:AnnotationList",
 "resources":[{"@type":"oa:Annotation",
 "@id":"263334409aa611ea87d31b4f8ab3db06",
