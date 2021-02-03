@@ -38,7 +38,7 @@
 				},
 				"item": [
 					{
-						"@id": "https://publicbin.cogapp.com/temp/audio/orgtest.mp3",
+						"@id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/audio/orgtest.mp3",
 						"@type": "dctypes:Sound",
 						"format": "audio/mpeg"
 					}
@@ -138,7 +138,7 @@
 				},
 				"item": [
 					{
-						"@id": "https://publicbin.cogapp.com/temp/audio/orgtest_org.mp3",
+						"@id": "https://benr-cogapp.github.io/benr-cogapp/tempiiies/audio/orgtest_org.mp3",
 						"@type": "dctypes:Sound",
 						"format": "audio/mpeg"
 					},
