@@ -1,0 +1,321 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://m3qvhfvoy3.execute-api.us-east-1.amazonaws.com/dev/manifest/d1b3f2407a6811ea8d67c76cad3c5add/manifest.json",
+  "@type": "sc:Manifest",
+  "label": {
+    "@value": "Life of Sir Henry Unton 7",
+    "@language": "en"
+  },
+  "metadata": [
+    {
+      "label": "author",
+      "value": "BenR"
+    },
+    {
+      "label": "provider",
+      "value": "cogapp"
+    }
+  ],
+  "manifestid": "d1b3f2407a6811ea8d67c76cad3c5add",
+  "description": {
+    "@value": "audio test",
+    "@language": "en"
+  },
+  "viewingHint": "paged",
+  "viewingDirection": "left-to-right",
+  "attribution": "Sir Henry Unton by Unknown artist\n© National Portrait Gallery, London",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "canvases": [
+        {
+          "@id": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0",
+          "label": {
+            "@value": "Life of Sir Henry Unton 7\nBenR\n\naudio test\n\nSir Henry Unton by Unknown artist\n© National Portrait Gallery, London",
+            "@language": "en"
+          },
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@type": "sc:Canvas",
+          "width": 5448,
+          "height": 2400,
+          "images": [
+            {
+              "resource": {
+                "@id": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 5448,
+                "height": 2400,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "profile": "http://iiif.io/api/image/1/level2.json",
+                  "@id": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif"
+                }
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://publicbin.cogapp.com/temp/unton_annotations3.json",
+              "@type": "sc:AnnotationList"
+            }
+          ],
+          "annotationList": {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://publicbin.cogapp.com/temp/unton_annotations1.json",
+            "@type": "sc:AnnotationList",
+            "resources": [
+              {
+                "@type": "oa:Annotation",
+                "@id": "f0ca2af07a6811ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "At the heart of the composition is the portrait of Unton"
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=1689.9408534074603,74.16177304233308,1135,816.317494600432"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "00245fc07a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "flanked by figures of Fame (top left) and Death (top right)"
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=1316.6862671493618,-173.25152676868316,1634.3999999999999,1175.497192224622"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "18dc31a07a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "... and surrounded by scenes from his life and death."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=811.1062587395555,-5.191813301548807,2824.2431999999994,2031.2591481641462"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "2dfc5dd07a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "Unton as an infant in the arms of his mother, Anne Seymour, formerly Countess of Warwick, at the Unton house of Ascott-under-Wychwood"
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=4385.152113807029,1347.3451026551463,1010.1818181818181,726.5454545454545"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "3f1c5e807a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "Studying at Oriel College, Oxford, where he took his degree in 1573"
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=4067.043304601414,344.3163713847064,1454.661818181818,1046.2254545454543"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "5d4bb9a07a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "Travelling beyond the Alps to Venice and Padua (1570s)."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=4216.115233940432,13.076306877082976,1212.2181818181818,871.8545454545454"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "68b8fcd07a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "Serving with Leicester in the Netherlands (1585-6), with Nijmegen in the distance."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=3757.3350990312174,10.96335916793028,1010.1818181818181,726.5454545454545"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "7457fe607a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "On his embassy to Henry IV at Coucy La Fère in northwest France, in an unsuccessful attempt to avert a peace treaty between France and Spain (1595-6)."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=3338.3322581221323,-13.752549922978803,1010.1818181818181,726.5454545454545"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "860c9df07a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "On his deathbed, with a physician sent by Henry IV."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=2667.145468349401,74.19063189520317,841.8181818181816,605.4545454545454"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "a50c68707a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "His body brought back to England across the Channel in a black ship."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=2601.1426106705853,491.27368686398563,841.8181818181816,605.4545454545454"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "aea428507a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "His hearse on its way back to his home at Wadley House, Faringdon, near Oxford."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=2829.5481504433124,722.7900220912586,841.8181818181816,605.4545454545454"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "ce8ddda07a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "Unton's life at Wadley House, with scenes showing him..."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=2936.274999424108,464.60773741979045,2513.6556218181813,1807.877585454545"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "da122b407a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "...sitting in his study (top)..."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=3820.0429032430775,481.1718765760558,841.8181818181816,605.4545454545454"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "f31ab5307a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "...talking with learned divines (bottom left)..."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=3261.047874833983,1254.4140640760556,841.8181818181816,605.4545454545454"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "faf66d307a6911ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "...making music (above left)..."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=3238.8426191521644,1006.2713083942377,841.8181818181816,605.4545454545454"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "09feff907a6a11ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "...and presiding over a banquet, while a masque of Mercury and Diana is performed, accompanied by musicians."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=3362.9443825154985,888.5243657491831,1745.5941818181814,1255.4705454545451"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "5d937b907a6a11ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "From the house his funeral procession leads, past a group of the poor and lame lamenting his death,"
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=2367.447843939579,1173.9378790908152,1454.661818181818,1046.2254545454543"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "9e0262e07a6a11ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "to Faringdon Church"
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=-6.166386773344952,102.959458886089,1745.5941818181814,1255.4705454545451"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "74b544207a6a11ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "with this funeral (8 July 1596) in progress"
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=806.8243540698852,1238.8018071453541,841.8181818181816,605.4545454545454"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "8242cf407a6a11ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "and, in the foreground, his monument with Unton's recumbent effigy and the kneeling figure of his widow. "
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=22.747816167377888,1029.6115519340037,1745.5941818181814,1255.4705454545451"
+              },
+              {
+                "@type": "oa:Annotation",
+                "@id": "2ad060507a6b11ea8e1df5d575640ca9",
+                "motivation": "sc:painting",
+                "resource": {
+                  "@type": "cnt:ContentAsText",
+                  "format": "text/plain",
+                  "chars": "You can find more information about this extraordinary picture at http://www.npg.org.uk."
+                },
+                "on": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif/canvas/c0#xywh=38.989250202735484,-1096.09558148169,5044.444444444443,4575.953923686104"
+              }
+            ]
+          }
+        }
+      ],
+      "pages": [
+        {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "profile": [
+            "http://iiif.io/api/image/2/level2.json"
+          ],
+          "protocol": "http://iiif.io/api/image",
+          "@id": "https://storiiies-images.cogapp.com/iiif/2/1586440068759710unton.ptif",
+          "width": 5448,
+          "height": 2400
+        }
+      ]
+    }
+  ]
+}
