@@ -3,8 +3,6 @@
     "@id": "https://www.npg.org.uk/assets/collections/matb/manifest.php?mkey=mw00142",
     "@type": "sc:Manifest",
     "label": "NPG 668: Anne Boleyn",
-    "logo": "https://www.npg.org.uk/assets/images/layout/logo_white_bg.gif",
-    "within": "https://www.qdl.qa/en/iiif/collection",
     "metadata": [
         {
             "label": "Accession-Number",
@@ -24,7 +22,7 @@
         },
         {
             "label": "Type",
-            "value": null
+            "value": "null"
         },
         {
             "label": "Materials",
@@ -32,7 +30,7 @@
         },
         {
             "label": "Dimensions",
-            "value": null
+            "value": "null"
         }
     ],
     "description": "Anne Boleyn This painting is probably based on a contemporary portrait which no longer survives. Boleyn was described as having a long neck, wide mouth and with 'eyes which were black and beautiful'. This portrait has recently undergone structural conservation following a successful fundraising campaign and the generous support of public donations.",
